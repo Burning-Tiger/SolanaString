@@ -1,2 +1,2 @@
 # SolanaString
-A minimal first program using Solana and vueJs 
+PDA account per user with a string as data. 
